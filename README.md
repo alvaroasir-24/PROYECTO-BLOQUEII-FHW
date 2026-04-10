@@ -112,8 +112,7 @@ Este proyecto utiliza elementos que van más allá de lo básico para demostrar 
 ## 👥 Equipo de Trabajo
 Trabajo colaborativo realizado por:
 
-* **Álvaro Martín** 
-* **José Vizuete**
-* **1º ASIR**
+* **Álvaro Martín** **1º ASIR**
+* **José Vizuete** **1º ASIR**
 
 ---
