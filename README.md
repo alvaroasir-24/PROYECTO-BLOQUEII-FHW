@@ -112,7 +112,8 @@ Este proyecto utiliza elementos que van más allá de lo básico para demostrar 
 ## 👥 Equipo de Trabajo
 Trabajo colaborativo realizado por:
 
-* **Álvaro Martín** - *Especialista en Hardware y Medioambiente*
-* **José Vizuete** - *Especialista en Sistemas y Seguridad Laboral*
+* **Álvaro Martín** 
+* **José Vizuete**
+* **1º ASIR**
 
 ---
